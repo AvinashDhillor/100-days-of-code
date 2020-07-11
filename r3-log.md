@@ -1,5 +1,15 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 30: July11, 2020
+
+**Today's Progress:** Solved width of tree problem.
+
+**Thoughts:** Today i solved 2nd problem of this week in july challenge. it was tree problem that is solved using bfs approach.
+
+**Link(s) to work:**
+
+- [LeetCode july Challenge](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3385/)
+
 ### Day 29: July 10, 2020
 
 **Today's Progress:** Solved a `Trie DS` problem from hackerrank and `3sum` problem from leetcode.
