@@ -1,10 +1,20 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 32: July 13, 2020
+
+**Today's Progress:** Solved leetcode problems and looked at number theory concepts while i encounter problem related to it.
+
+**Thoughts:** Today i solved leetcode daily problem and also looked at editorial of number theory problem.
+
+**Link(s) to work:**
+
+- [LeetCode july Challenge](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3387/)
+
 ### Day 31: July 12, 2020
 
 **Today's Progress:** Solved leetcode problems.
 
-**Thoughts:** today i solved leetcode  problems and also tried to solve problems from number theory on hackerrank.
+**Thoughts:** today i solved leetcode problems and also tried to solve problems from number theory on hackerrank.
 
 **Link(s) to work:**
 
