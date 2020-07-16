@@ -1,5 +1,25 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 34: July 15, 2020
+
+**Today's Progress:** Participated in coding contest.
+
+**Thoughts:** Today i participated in coding contest from codechef. Was able to solve 2 problems completely. 3rd problem was not clear to me and i was finding statement confusing.
+
+**Link(s) to work:**
+
+- [Contest Link](https://www.codechef.com/COLE2020?order=desc&sortBy=successful_submissions)
+
+### Day 33: July 14, 2020
+
+**Today's Progress:** Solved problems from codechef.
+
+**Thoughts:** Today i practiced problems from codechef practice section. These problems are mostly algorithms based and we need to find some pattern in most of problems according to me.
+
+**Link(s) to work:**
+
+- [Codechef](https://codechef.com)
+
 ### Day 32: July 13, 2020
 
 **Today's Progress:** Solved leetcode problems and looked at number theory concepts while i encounter problem related to it.
