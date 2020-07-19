@@ -1,5 +1,27 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 37: July 18, 2020
+
+**Today's Progress:** Tried leetcode daily problem and also tried to solve problems from past codeforces virtual contest.
+
+**Thoughts:** Today o troed to solve leetcode daily problem and tried to solve problem in a virtual contest. I solved 1/3 problems in that. Hoped to solve more problems from it
+
+### Day 36: July 17, 2020
+
+**Today's Progress:** Solved Leetcode problem and solved problems from hackerEarth codearena.
+
+**Thoughts:** Today i solved problem from leetcode. problem was not so difficult and i already solved similar problem to do. Also i did some coding fight in codearena And won in some problems
+
+**Link(s) to work:**
+
+- [HackerEarth](https://www.hackerearth.com)
+
+### Day 35: July 16, 2020
+
+**Today's Progress:** Solved problems from past contest.
+
+**Thoughts:** Today i solved problems from past contest on codeforces.
+
 ### Day 34: July 15, 2020
 
 **Today's Progress:** Participated in coding contest.
