@@ -1,10 +1,42 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 41: July 22, 2020
+
+**Today's Progress:** Continued with Leetcode problem `Word Search`.
+
+**Thoughts:** Continued with previous day leetcode problem `Word Search`. I find out that i need to add backtracking in dfs solution. I solved it with 2 extra lines of code.
+
+**Link(s) to work:**
+
+- [Search Word](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/)
+
+### Day 40: July 21, 2020
+
+**Today's Progress:** Tried Leetcode problem `Word Search`.
+
+**Thoughts:** Tried `Day 21` problem from leetcode july challenge. First Thought of DFS solution but getting wrong answer on some test case. Will Try again later to solve it.
+
+**Link(s) to work:**
+
+- [Search Word](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/)
+
+### Day 39: July 20, 2020
+
+**Today's Progress:** Solved leetcode problem and tried to solve Number theory problem on hackerearth.
+
+**Thoughts:** Today i solved leetcode problem and also tried to solve new problem from number theory topic on hackerearth. These problems were to find relationship between input and output. Could not solved them without help
+
+### Day 38: July 19, 2020
+
+**Today's Progress:** Did some fight in codearean on hackerearth.
+
+**Thoughts:** Today i did some coding fight in hackerearth codearean. One interesting problem i find out is to find `maximum spanning tree in DAG`. One solution i could think of using DFS and find maximum cost on visting a node. But this not passed any test case.
+
 ### Day 37: July 18, 2020
 
 **Today's Progress:** Tried leetcode daily problem and also tried to solve problems from past codeforces virtual contest.
 
-**Thoughts:** Today o troed to solve leetcode daily problem and tried to solve problem in a virtual contest. I solved 1/3 problems in that. Hoped to solve more problems from it
+**Thoughts:** Today i tried to solve leetcode daily problem and tried to solve problem in a virtual contest. I solved 1/3 problems in that. Hoped to solve more problems from it
 
 ### Day 36: July 17, 2020
 
