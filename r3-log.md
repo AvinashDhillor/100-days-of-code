@@ -1,5 +1,16 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 42: July 23, 2020
+
+**Today's Progress:** Solved 2 leetcode problems.
+
+**Thoughts:** I solved leetcode problem `Binary Tree Zigzag Level Order Traversal` and `Single Number III`. Zigzag problem was solved with dfs on tree and another problem was solved with hashing also i tried to solve it using constant space using xor operation.
+
+**Link(s) to work:**
+
+- [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/)
+- [Single Number III](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/)
+
 ### Day 41: July 22, 2020
 
 **Today's Progress:** Continued with Leetcode problem `Word Search`.
