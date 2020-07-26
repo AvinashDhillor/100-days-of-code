@@ -1,16 +1,24 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 44: July 25, 2020
+
+**Today's Progress:** Solved a part leetcode warmup contest.
+
+**Thoughts:** I solved problem in leetcode contest. The problem was very easy.
+
+**Link(s) to work:**
+
+- [Warm Up Contests](https://leetcode.com/contest/warm-up-contest)
+
 ### Day 43: July 24, 2020
 
 **Today's Progress:** Solved leetcode daily problem.
 
-**Thoughts:**  I solved `All Paths From Source to Target Solution`. The problem was solved with recursion on graph which visit all path from source to final vertax. That is solved by passing a temporary array in recursive function that store all the visited nodes.
+**Thoughts:** I solved `All Paths From Source to Target Solution`. The problem was solved with recursion on graph which visit all path from source to final vertax. That is solved by passing a temporary array in recursive function that store all the visited nodes.
 
 **Link(s) to work:**
 
 - [All Paths From Source to Target Solution](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/)
-
-
 
 ### Day 42: July 23, 2020
 
