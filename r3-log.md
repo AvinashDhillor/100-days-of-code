@@ -1,5 +1,15 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 45: July 26, 2020
+
+**Today's Progress:** Solved problems from leetcode weekly contest and july daily challenge.
+
+**Thoughts:** Today i solved problems from leetcode weekly challenge. Was able to solve 2 problems easily. 3rd problem was a tree traversal problem i tried different approaches but could not come to exact solution. I will try it again tomorrow.
+
+**Link(s) to work:**
+
+- [Leetcode Contest 199](https://leetcode.com/contest/weekly-contest-199)
+
 ### Day 44: July 25, 2020
 
 **Today's Progress:** Solved a part leetcode warmup contest.

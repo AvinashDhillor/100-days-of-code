@@ -8,9 +8,9 @@
 
 |            Streak             |  Value |
 | :---------------------------: | -----: |
-|            Day No             | 44/100 |
-|          Best Streak          |     44 |
-|        Current Streak         |     44 |
+|            Day No             | 45/100 |
+|          Best Streak          |     45 |
+|        Current Streak         |     45 |
 | Project Eular Problems Solved |  3/100 |
 
 - [x] 1-10 Days Completed
