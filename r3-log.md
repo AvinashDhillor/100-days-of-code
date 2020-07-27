@@ -1,5 +1,15 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 46: July 27, 2020
+
+**Today's Progress:** Solved yesterday problems of leetcode weekly contest and tried july daily challenge problem.
+
+**Thoughts:** Today i looked at solution of 3rd problem from yesterday's leetcode contest. I was very close to solution but i need to pass the vector in recursive calls to store the distance.
+
+**Link(s) to work:**
+
+- [Leetcode Contest 199](https://leetcode.com/contest/weekly-contest-199)
+
 ### Day 45: July 26, 2020
 
 **Today's Progress:** Solved problems from leetcode weekly contest and july daily challenge.
