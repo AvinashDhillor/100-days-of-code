@@ -1,5 +1,15 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 47: July 28, 2020
+
+**Today's Progress:** Started solving problem from leetcode virtal contest.
+
+**Thoughts:** After a busy day i started working on leetcode virtual contest from past events. First problem was very easy but second problem was a bit tricky. Getting TLE on some cases. It must have some kind of hidden pattern that i need to find out. Third problem is left untouched yet.
+
+**Link(s) to work:**
+
+- [Leetcode weekly Contest 2](https://leetcode.com/contest/leetcode-weekly-contest-2)
+
 ### Day 46: July 27, 2020
 
 **Today's Progress:** Solved yesterday problems of leetcode weekly contest and tried july daily challenge problem.
