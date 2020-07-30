@@ -1,5 +1,15 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 48: July 29, 2020
+
+**Today's Progress:** Started DSA series on codechef.
+
+**Thoughts:** Today i started solving problems from DSA series in codechef. Currently i solved first 5 problems in basic warm up section.
+
+**Link(s) to work:**
+
+- [DSA Series (Codechef)](https://www.codechef.com/LEARNDSA?order=desc&sortBy=successful_submissions)
+
 ### Day 47: July 28, 2020
 
 **Today's Progress:** Started solving problem from leetcode virtal contest.
