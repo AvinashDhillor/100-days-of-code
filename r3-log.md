@@ -1,5 +1,16 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 49: July 30, 2020
+
+**Today's Progress:** Continued with DSA series on codechef and participated in online coding contest.
+
+**Thoughts:** Today i solved remaning problems from DSA series. Last problem was interesting and i was able to find the pattern successfully. Also i solved problems from online contest and also solved half tree problems from e-olymp website.
+
+**Link(s) to work:**
+
+- [DSA Series (Codechef)](https://www.codechef.com/LEARNDSA?order=desc&sortBy=successful_submissions)
+- [Tree Contest](https://www.e-olymp.com/en/contests/16838)
+
 ### Day 48: July 29, 2020
 
 **Today's Progress:** Started DSA series on codechef.
