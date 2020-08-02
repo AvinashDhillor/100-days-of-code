@@ -1,5 +1,27 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 51: August 1, 2020
+
+**Today's Progress:** Solved leetcode daily problem and tried to solved 2 tree problems again.
+
+**Thoughts:** Solved leetcode august day 1 problem and tried tree problem again but still not able to pass all tests.
+
+**Link(s) to work:**
+
+- [Tree Contest](https://www.e-olymp.com/en/contests/16838)
+
+
+### Day 50: July 31, 2020
+
+**Today's Progress:** Solved remaining tree problems from e-olymp contest.
+
+**Thoughts:** I solved remaining tree problems from contest but 2 problems still could not be solved. Will try again tomorrow.
+
+**Link(s) to work:**
+
+- [Tree Contest](https://www.e-olymp.com/en/contests/16838)
+
+
 ### Day 49: July 30, 2020
 
 **Today's Progress:** Continued with DSA series on codechef and participated in online coding contest.
