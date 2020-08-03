@@ -1,5 +1,18 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 52: August 2, 2020
+
+**Today's Progress:** Solved leetcode daily problem and solved 1 problem from tree problems.
+
+**Thoughts:** Solved leetcode august day 2 problem and was able to solve 1 out of 2 problem on tree contest.
+
+**Link(s) to work:**
+
+- [Tree Contest](https://www.e-olymp.com/en/contests/16838)
+
+
+# Round 3 - Started on [June 12, Friday, 2020]
+
 ### Day 51: August 1, 2020
 
 **Today's Progress:** Solved leetcode daily problem and tried to solved 2 tree problems again.
