@@ -1,5 +1,17 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+
+### Day 54: August 6, 2020
+
+**Today's Progress:** Solved previous 2 days problem from leetcode and also today's one.
+
+**Thoughts:** I took 2 days off because of new job and buy new stuff for WFH. So i solved previous days problem and today's problem from leetcode daily challenge.
+
+**Link(s) to work:**
+
+- [Tree Contest](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3412/)
+
+
 ### Day 53: August 3, 2020
 
 **Today's Progress:** Solved leetcode daily problem and solving remaining tree problem.
