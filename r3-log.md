@@ -1,5 +1,14 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 55: August 7, 2020
+
+**Today's Progress:** Tried leetcode today's problem.
+
+**Thoughts:** Today i tried to solve `Vertical order traversal problem` on leetcode. I still getting some error but i will try it tomorrow.
+
+**Link(s) to work:**
+
+- [Vertical order traversal problem](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3415/)
 
 ### Day 54: August 6, 2020
 
@@ -9,7 +18,7 @@
 
 **Link(s) to work:**
 
-- [Tree Contest](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3412/)
+- [Leetcode contest](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3412/)
 
 
 ### Day 53: August 3, 2020
