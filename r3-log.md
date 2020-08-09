@@ -1,5 +1,15 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 57: August 9, 2020
+
+**Today's Progress:** Solved codechef + leetcode problems.
+
+**Thoughts:** Today i solved 4th problem from codechef long and also sovled leetcode problem `Vertical order traversal` completely. Also i approached the solution of `Path sum` problem on leetcode
+
+**Link(s) to work:**
+
+- [Vertical order traversal problem](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3415/)
+
 ### Day 56: August 8, 2020
 
 **Today's Progress:** solved codechef problems.
