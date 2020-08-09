@@ -1,5 +1,11 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 56: August 8, 2020
+
+**Today's Progress:** solved codechef problems.
+
+**Thoughts:** I tried solving codechef problems in ongoing  long contest.
+
 ### Day 55: August 7, 2020
 
 **Today's Progress:** Tried leetcode today's problem.
