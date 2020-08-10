@@ -1,5 +1,16 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 58: August 10, 2020
+
+**Today's Progress:** Solved codechef long contest problems.
+
+**Thoughts:** Today i tried solving the codechef long challgne problems. Work is still in progress.
+
+**Link(s) to work:**
+
+- [long challenge](https://www.codechef.com/AUG20B/)
+
+
 ### Day 57: August 9, 2020
 
 **Today's Progress:** Solved codechef + leetcode problems.
