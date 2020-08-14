@@ -1,5 +1,38 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 61: August 13, 2020
+
+**Today's Progress:** Participate in codechef coding contest.
+
+**Thoughts:** Again read problem wrong in the ongoing contest and wasted full time on the single problem that was easy.
+
+**Link(s) to work:**
+
+- [Contest Link](https://www.codechef.com/DEM2020?itm_campaign=contest_listing/)
+
+
+### Day 60: August 12, 2020
+
+**Today's Progress:** Solved codechef long contest problems.
+
+**Thoughts:** Started solving 5th problem from new approach this time i build recursive solution with time complexity 2 ^ n.
+
+**Link(s) to work:**
+
+- [long challenge](https://www.codechef.com/AUG20B/)
+
+
+### Day 59: August 11, 2020
+
+**Today's Progress:** Solved codechef long contest problems.
+
+**Thoughts:** Spended more time on codechef 5th problem.
+
+**Link(s) to work:**
+
+- [long challenge](https://www.codechef.com/AUG20B/)
+
+
 ### Day 58: August 10, 2020
 
 **Today's Progress:** Solved codechef long contest problems.
