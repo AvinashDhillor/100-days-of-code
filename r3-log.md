@@ -1,5 +1,16 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 62: August 14, 2020
+
+**Today's Progress:** Participate in codechef coding contest and revised basics of python.
+
+**Thoughts:** Tried solving codechef problem and learned python basics concept.
+
+**Link(s) to work:**
+
+- [Contest Link](https://www.codechef.com/DEM2020?itm_campaign=contest_listing/)
+
+
 ### Day 61: August 13, 2020
 
 **Today's Progress:** Participate in codechef coding contest.
