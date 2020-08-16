@@ -1,5 +1,12 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 63: August 15, 2020
+
+**Today's Progress:** Practiced some problems on codeforces.
+
+**Thoughts:** Today i practiced some problems on codeforces.
+
+
 ### Day 62: August 14, 2020
 
 **Today's Progress:** Participate in codechef coding contest and revised basics of python.
