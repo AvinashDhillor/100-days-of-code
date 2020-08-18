@@ -1,5 +1,28 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 66: August 18, 2020
+
+**Today's Progress:** SQL problems.
+
+**Thoughts:** Today i practiced sql question and learned about various joins.
+
+
+
+### Day 65: August 17, 2020
+
+**Today's Progress:** started learning sql and learned different concept.
+
+**Thoughts:** Started with sql and solved various problems and learned about building ER diagrams.
+
+
+### Day 64: August 16, 2020
+
+**Today's Progress:** Tried codechef problem.
+
+**Thoughts:** Tried problems on codechef.
+
+
+
 ### Day 63: August 15, 2020
 
 **Today's Progress:** Practiced some problems on codeforces.
