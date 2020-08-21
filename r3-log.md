@@ -1,5 +1,19 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 68: August 20, 2020
+
+**Today's Progress:** Practiced SQL queries and E R diagram.
+
+**Thoughts:** Today i practiced making E R diagram and find solution of sql queries.
+
+
+### Day 67: August 19, 2020
+
+**Today's Progress:** Practiced sql problems and learned about string and date functions in sql.
+
+**Thoughts:** Today i practiced queries, learned more about E R diagram and practiced problems that use string and date functions.
+
+
 ### Day 66: August 18, 2020
 
 **Today's Progress:** SQL problems.
