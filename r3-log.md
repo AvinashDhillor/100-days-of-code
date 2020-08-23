@@ -1,5 +1,18 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 70: August 22, 2020
+
+**Today's Progress:** Revised concept of react/redux.
+
+**Thoughts:** Today i revised concept of react and redux by building a small random applicaiton code.
+
+### Day 69: August 21, 2020
+
+**Today's Progress:** today i learned about writing user stories in agile development.
+
+**Thoughts:** Learned about user stories, acceptance critiria and practiced writing user stories.
+
+
 ### Day 68: August 20, 2020
 
 **Today's Progress:** Practiced SQL queries and E R diagram.
