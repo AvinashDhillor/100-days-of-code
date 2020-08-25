@@ -1,5 +1,19 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+
+### Day 72: August 24, 2020
+
+**Today's Progress:** Learned about core concept of java and various components in it.
+
+**Thoughts:** Today i learned about some concept that java use and also get to know about heap and stack memory in java.
+
+### Day 71: August 23, 2020
+
+**Today's Progress:** Learned about writing user stories and practiced some code.
+
+**Thoughts:** Today i learned about writing user stories in agile product development and also wrote some user stories.
+
+
 ### Day 70: August 22, 2020
 
 **Today's Progress:** Revised concept of react/redux.
