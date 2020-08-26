@@ -1,6 +1,22 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
 
+### Day 74: August 25, 2020
+
+**Today's Progress:** Learned exception handling in java & solved leetcode problem.
+
+**Thoughts:** Learned about exception handling in java and also learned about creating custom java exceptions also solved leetcode problem `Next Permutation`.
+
+**Link(s) to work:**
+
+- [Next Permuation](https://leetcode.com/problems/next-permutation/)
+
+### Day 73: August 25, 2020
+
+**Today's Progress:** Learned about java object oriented features.
+
+**Thoughts:** Today i learned about java object oriented features like runtime polymorphism, inheritance, use of abstract class and interface etc.
+
 ### Day 72: August 24, 2020
 
 **Today's Progress:** Learned about core concept of java and various components in it.
