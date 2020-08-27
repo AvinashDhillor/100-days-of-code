@@ -1,7 +1,14 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 75: August 27, 2020
 
-### Day 74: August 25, 2020
+**Today's Progress:** Learned about collection class in java.
+
+**Thoughts:** Today i spend more time learning about java list and set interfaces and classes like LinkedList, ArrayList, HashSet and TreeSet. Also i learned about lambda expression and its use as function reference.
+
+
+
+### Day 74: August 26, 2020
 
 **Today's Progress:** Learned exception handling in java & solved leetcode problem.
 
