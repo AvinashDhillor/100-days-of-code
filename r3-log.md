@@ -1,11 +1,28 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 78: August 30, 2020
+
+**Today's Progress:** Didn't learn anything new but practiced java collection class.
+
+**Thoughts:**  Today i didnt feel like learning new thing. Instead i practiced java collection classes.
+
+### Day 77: August 29, 2020
+
+**Today's Progress:** Learned about file handling in java.
+
+**Thoughts:**  I learned about file handling methods in java also i came to know about reading file as character & as bytes. Learned some important classes like FileInputReader & FileReader and there differences. Also leared about pipe input stream to BufferedReader class.
+
+### Day 76: August 28, 2020
+
+**Today's Progress:** Practiced program of set and map class in java.
+
+**Thoughts:** Learned abot set and map and its use and overiding methods to store data in classes.
+
 ### Day 75: August 27, 2020
 
 **Today's Progress:** Learned about collection class in java.
 
 **Thoughts:** Today i spend more time learning about java list and set interfaces and classes like LinkedList, ArrayList, HashSet and TreeSet. Also i learned about lambda expression and its use as function reference.
-
 
 
 ### Day 74: August 26, 2020
