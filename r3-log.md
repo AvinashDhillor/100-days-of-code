@@ -1,5 +1,37 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 83: September 4, 2020
+
+**Today's Progress:** Learned about Hibernate ORM.
+
+**Thoughts:** Today i learned about hibernate ORM and making joins .
+
+### Day 82: September 3, 2020
+
+**Today's Progress:** Learned about object oriented design.
+
+**Thoughts:**  Learned about object oriented design and also added hibernate to project.
+
+### Day 81: September 2, 2020
+
+**Today's Progress:** Learned about JDBC.
+
+**Thoughts:**  Learned about setting up JDBC connection and execute queries.
+
+
+### Day 80: September 1, 2020
+
+**Today's Progress:** Practiced thread in java.
+
+**Thoughts:**  Learned about thread class and build various program using it.
+
+
+### Day 79: August 31, 2020
+
+**Today's Progress:** Learned more about streams.
+
+**Thoughts:**  Learned more about streams in java and there use.
+
 ### Day 78: August 30, 2020
 
 **Today's Progress:** Didn't learn anything new but practiced java collection class.
