@@ -5,6 +5,13 @@
 **Today's Progress:** In these 9 days i spend more time on java and HE.
 
 **Thoughts:** Learned hibernate features and also learned about web application using servlet and JSP in java. Also build a simple online exam system using jsp/servlet and hibernate ORM. Also i started with spring framework. 
+Read about Homomorphic encryption and run some simple program using Microsoft SEAL library. I tried to understand BFV schema but it is too much mathmatical and hard to understand. Still i tried to understand Learning with errors and Ring Learning with errors. Here are some usefull Resourses that i found.
+
+**Link(s) to work:**
+
+- [Introduction & Implemententation OF schema](https://blog.openmined.org/build-an-homomorphic-encryption-scheme-from-scratch-with-python/)
+- [LWE](https://www.youtube.com/watch?v=sXvoX9uDr8Q&ab_channel=BillBuchananOBE)
+- [RLWE](https://www.youtube.com/watch?v=hN5TQiz2gWs&t=614s&ab_channel=BillBuchananOBE)
 
 ### Day 83: September 4, 2020
 
