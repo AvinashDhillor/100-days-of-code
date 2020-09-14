@@ -1,5 +1,11 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 83 - 92: September 5-13, 2020
+
+**Today's Progress:** In these 9 days i spend more time on java and HE.
+
+**Thoughts:** Learned hibernate features and also learned about web application using servlet and JSP in java. Also build a simple online exam system using jsp/servlet and hibernate ORM. Also i started with spring framework. 
+
 ### Day 83: September 4, 2020
 
 **Today's Progress:** Learned about Hibernate ORM.
