@@ -1,5 +1,18 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 94: September 15, 2020
+
+**Today's Progress:** Learn more about spring mvc.
+
+**Thoughts:** Today i learned more about sprinig mvc and run some simple program using it.
+
+### Day 93: September 14, 2020
+
+**Today's Progress:** Explore more about TFHE library.
+
+**Thoughts:** Today i tried to understand the concept of TFHE library and tried to run in the system also i did a simple spring program.
+
+
 ### Day 83 - 92: September 5-13, 2020
 
 **Today's Progress:** In these 9 days i spend more time on java and HE.
