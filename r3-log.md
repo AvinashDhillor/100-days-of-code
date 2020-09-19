@@ -1,5 +1,11 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 95-97: September 16-18, 2020
+
+**Today's Progress:** study and write math functions using TFHE lib.
+
+**Thoughts:** In these  days i studied more about TFHE library and written some math function using it.
+
 ### Day 94: September 15, 2020
 
 **Today's Progress:** Learn more about spring mvc.
