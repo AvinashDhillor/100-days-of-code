@@ -6,12 +6,12 @@
 
 ## Progress Tracking ⏱
 
-|            Streak             |  Value |
-| :---------------------------: | -----: |
-|            Day No             | 94/100 |
-|          Best Streak          |     94 |
-|        Current Streak         |     94 |
-| Project Eular Problems Solved |  3/100 |
+|            Streak             |   Value |
+| :---------------------------: | ------: |
+|            Day No             | 100/100 |
+|          Best Streak          |     100 |
+|        Current Streak         |     100 |
+| Project Eular Problems Solved |   3/100 |
 
 - [x] 1-10 Days Completed
 - [x] 11-20 Days Completed
@@ -43,7 +43,7 @@
 
 ---
 
-- [ ] 91-100 Days Completed
+- [x] 91-100 Days Completed
 
 ---
 

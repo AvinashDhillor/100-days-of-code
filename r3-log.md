@@ -1,5 +1,23 @@
 # Round 3 - Started on [June 12, Friday, 2020]
 
+### Day 100: September 21, 2020
+
+**Today's Progress:** 100 Day is achieved.
+
+**Thoughts:** Today I read some research papers on HE and implemented searching and sorting operation using the TFHE library and also optimized the division operation code.
+
+### Day 99: September 20, 2020
+
+**Today's Progress:** implemented divison.
+
+**Thoughts:** Finished the implementation of division operation but it is very slow. Taking around 2-3 minutes.
+
+### Day 98: September 19, 2020
+
+**Today's Progress:** Divison using TFHE.
+
+**Thoughts:** Build logic for division operation using the TFHE library and also think of the logic of performing a comparison on encrypted data. Tomorrow ill try to implement it.
+
 ### Day 95-97: September 16-18, 2020
 
 **Today's Progress:** study and write math functions using TFHE lib.
